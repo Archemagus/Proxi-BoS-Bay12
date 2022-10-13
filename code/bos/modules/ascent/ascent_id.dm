@@ -18,7 +18,7 @@
 
 /obj/item/card/id/ascent/GetAccess()
 	var/mob/living/carbon/human/H = loc
-	if(istype(H) && !(H.species.name in ALL_ASCENT_SPECIES))
+	if(istype(H) && !(H.species.name in list(SPECIES_MANTID_ALATE, SPECIES_MANTID_GYNE, SPECIES_NABBER, SPECIES_MONARCH_QUEEN, SPECIES_MONARCH_WORKER)))
 		. = list()
 	else
 		. = ..()

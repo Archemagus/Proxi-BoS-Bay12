@@ -1,3 +1,5 @@
+GLOBAL_VAR_INIT(ascent_drone_count, 0)
+
 /mob/living/silicon/robot/flying/ascent
 	desc = "A small, sleek, dangerous-looking hover-drone."
 	speak_statement = "clicks"
@@ -13,7 +15,6 @@
 	module = /obj/item/robot_module/flying/ascent
 	req_access = list(access_ascent)
 	silicon_radio = null
-	var/global/ascent_drone_count = 0
 
 /mob/living/silicon/robot/flying/ascent/add_ion_law(law)
 	return FALSE
@@ -48,7 +49,7 @@
 
 /mob/living/silicon/robot/flying/ascent/Initialize()
 	. = ..()
-	name = "[uppertext(pick(GLOB.gyne_geoforms))]-[++ascent_drone_count]"
+	name = "[uppertext(pick(GLOB.gyne_geoforms))]-[++GLOB.ascent_drone_count]"
 
 // Sorry, you're going to have to actually deal with these guys.
 /mob/living/silicon/robot/flying/ascent/flash_eyes(intensity = FLASH_PROTECTION_MODERATE, override_blindness_check = FALSE, affect_silicon = FALSE, visual = FALSE, type = /obj/screen/fullscreen/flash)

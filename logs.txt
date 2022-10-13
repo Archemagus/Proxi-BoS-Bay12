@@ -1,0 +1,391 @@
+*** Begin Log: Sun Oct 09 22:32:49 2022 ***
+Sun Oct 09 22:32:59 2022
+World opened on network port 62772.
+Welcome BYOND! (5.0 Public Version 514.1583)
+runtime error: list index out of bounds
+proc name: 
+  source file: disciplined,6
+  usr: null
+  src: 
+  call stack:
+: ()
+Running revision:
+bosfixes
+2022-10-09
+58640e033d79ec2408770ff5f8d90f672314246d
+## ERROR: Hook '/hook/startup/proc/set_visibility' failed or runtimed.
+Your server failed to establish a connection with the feedback database.
+Your server failed to establish a connection with the SQL database.
+## ERROR: Failed to connect to database in load_admins(). Reverting to legacy system.
+## ERROR: Database connection failed. Reverting to the legacy ban system.
+Initializing subsystems...
+Initialized Misc Initialization (Early) subsystem within 0 seconds!
+Unable to locate HTTP POST lib at lib/byhttp.dll, webhooks will not function on this run.
+Initialized Webhooks subsystem within 0 seconds!
+Initialized Chemistry subsystem within 0.1 seconds!
+Initialized Materials subsystem within 0 seconds!
+Initialized Plants subsystem within 0 seconds!
+Initialized Culture subsystem within 0 seconds!
+Initialized Misc Initialization subsystem within 0 seconds!
+Initialized Robots subsystem within 0 seconds!
+Initialized Space skybox subsystem within 0 seconds!
+One or more map blacklist files are not present in the config directory!
+Initialized Mapping subsystem within 0.9 seconds!
+Initialized Jobs subsystem within 0.1 seconds!
+Initialized Character Setup subsystem within 0 seconds!
+Initialized Circuit subsystem within 0 seconds!
+## TESTING: Building overmap...
+## TESTING: Putting overmap on 11
+## TESTING: Overmap build complete.
+## TESTING: Located sector "LSS Charon" at 3,4, containing Z 10
+## TESTING: Located sector "GUP Santoro" at 14,8, containing Z 12
+## TESTING: Located sector "LAS Aquila" at 6,5, containing Z 13
+## TESTING: Located sector "LRS Antares" at 15,21, containing Z 6, 5, 4, 3, 2, and 1
+Stopped server.
+World opened on network port 62985.
+runtime error: list index out of bounds
+proc name: 
+  source file: flogged,6
+  usr: null
+  src: 
+  call stack:
+: ()
+Running revision:
+bosfixes
+2022-10-09
+58640e033d79ec2408770ff5f8d90f672314246d
+## ERROR: Hook '/hook/startup/proc/set_visibility' failed or runtimed.
+Your server failed to establish a connection with the feedback database.
+Your server failed to establish a connection with the SQL database.
+## ERROR: Failed to connect to database in load_admins(). Reverting to legacy system.
+## ERROR: Database connection failed. Reverting to the legacy ban system.
+Initializing subsystems...
+Initialized Misc Initialization (Early) subsystem within 0 seconds!
+Unable to locate HTTP POST lib at lib/byhttp.dll, webhooks will not function on this run.
+Initialized Webhooks subsystem within 0 seconds!
+Initialized Chemistry subsystem within 0 seconds!
+Initialized Materials subsystem within 0 seconds!
+Initialized Plants subsystem within 0.1 seconds!
+Initialized Culture subsystem within 0 seconds!
+Initialized Misc Initialization subsystem within 0 seconds!
+Initialized Robots subsystem within 0 seconds!
+Initialized Space skybox subsystem within 0 seconds!
+One or more map blacklist files are not present in the config directory!
+Initialized Mapping subsystem within 0.9 seconds!
+Initialized Jobs subsystem within 0 seconds!
+Initialized Character Setup subsystem within 0 seconds!
+Initialized Circuit subsystem within 0.1 seconds!
+## TESTING: Building overmap...
+## TESTING: Putting overmap on 11
+## TESTING: Overmap build complete.
+## TESTING: Located sector "LSS Charon" at 24,2, containing Z 10
+## TESTING: Located sector "GUP Santoro" at 31,5, containing Z 12
+## TESTING: Located sector "LAS Aquila" at 3,3, containing Z 13
+Stopped server.
+World opened on network port 63190.
+runtime error: list index out of bounds
+proc name: 
+  source file: flogged,6
+  usr: null
+  src: 
+  call stack:
+: ()
+Running revision:
+bosfixes
+2022-10-09
+58640e033d79ec2408770ff5f8d90f672314246d
+## ERROR: Hook '/hook/startup/proc/set_visibility' failed or runtimed.
+Your server failed to establish a connection with the feedback database.
+Your server failed to establish a connection with the SQL database.
+## ERROR: Failed to connect to database in load_admins(). Reverting to legacy system.
+## ERROR: Database connection failed. Reverting to the legacy ban system.
+Initializing subsystems...
+Initialized Misc Initialization (Early) subsystem within 0 seconds!
+Unable to locate HTTP POST lib at lib/byhttp.dll, webhooks will not function on this run.
+Initialized Webhooks subsystem within 0 seconds!
+Initialized Chemistry subsystem within 0 seconds!
+Initialized Materials subsystem within 0 seconds!
+Initialized Plants subsystem within 0.1 seconds!
+Initialized Culture subsystem within 0 seconds!
+Initialized Misc Initialization subsystem within 0 seconds!
+Initialized Robots subsystem within 0 seconds!
+Initialized Space skybox subsystem within 0 seconds!
+One or more map blacklist files are not present in the config directory!
+Initialized Mapping subsystem within 0.9 seconds!
+Initialized Jobs subsystem within 0 seconds!
+Initialized Character Setup subsystem within 0 seconds!
+Initialized Circuit subsystem within 0 seconds!
+## TESTING: Building overmap...
+## TESTING: Putting overmap on 11
+## TESTING: Overmap build complete.
+## TESTING: Located sector "LSS Charon" at 24,26, containing Z 10
+## TESTING: Located sector "GUP Santoro" at 26,15, containing Z 12
+## TESTING: Located sector "LAS Aquila" at 9,13, containing Z 13
+## TESTING: Located sector "LRS Antares" at 18,13, containing Z 6, 5, 4, 3, 2, and 1
+Initialized 418649 atoms
+Late initialized 4063 atoms
+Initialized Atoms subsystem within 39.1 seconds!
+Initializing atmos machinery
+Initializing pipe networks
+Initialized Machines subsystem within 1.6 seconds!
+Initialized Icon Updates subsystem within 0.7 seconds!
+Initialized Aspects subsystem within 0 seconds!
+Initialized Evacuation subsystem within 0 seconds!
+Initialized Event Manager subsystem within 2.9 seconds!
+Initialized Graphs (Update) subsystem within 0 seconds!
+Initialized Inactivity subsystem within 0 seconds!
+Initialized Misc Updates subsystem within 0 seconds!
+Initialized Psychics subsystem within 0 seconds!
+Initialized Supply subsystem within 0 seconds!
+Initialized Voting subsystem within 0 seconds!
+Processing Geometry...
+Total Simulated Turfs: 32890
+Total Zones: 669
+Total Edges: 221
+Total Active Edges: <span class='danger'>2</span>
+Total Unsimulated Turfs: 487110
+Geometry processing completed in 1.8 seconds!
+
+Settling air...
+Air settling completed in 0.3 seconds!
+Initialized Air subsystem within 2.1 seconds!
+Loaded 20 custom items from 8 directories.
+Initialized Custom Items subsystem within 0 seconds!
+Initialized Fabrication subsystem within 0.1 seconds!
+Loading away sites...
+Finished selecting away sites (Skrellian Scout Ship, Casino, Derelict Station, Raider Vessel, and Mining Station) for 5 cost of 5 budget.
+runtime error: Undefined variable /obj/machinery/body_scanconsole/var/display_tags
+
+proc name: load (/dmm_suite/preloader/proc/load)
+  source file: dmm_suite.dm,591
+  usr: null
+  src: /dmm_suite/preloader (/dmm_suite/preloader)
+  call stack:
+/dmm_suite/preloader (/dmm_suite/preloader): load(the body scanner console (/obj/machinery/body_scanconsole))
+the body scanner console (/obj/machinery/body_scanconsole): New(the floor (115,84,14) (/turf/simulated/floor/tiled/skrell/white))
+/dmm_suite (/dmm_suite): create atom(/obj/machinery/body_scanconsol... (/obj/machinery/body_scanconsole), the floor (115,84,14) (/turf/simulated/floor/tiled/skrell/white))
+/dmm_suite (/dmm_suite): instance atom(/obj/machinery/body_scanconsol... (/obj/machinery/body_scanconsole), /list (/list), the floor (115,84,14) (/turf/simulated/floor/tiled/skrell/white), 1)
+/dmm_suite (/dmm_suite): parse grid("\n/obj/machinery/body_scancons...", "uc", 115, 84, 14, 1, null, /list (/list))
+/dmm_suite (/dmm_suite): load map impl(maps/away/skrellscoutship/skre..., 50, 50, 14, null, null, 1, null, -1.#INF, 1.#INF, -1.#INF, 1.#INF, /list (/list))
+/dmm_suite (/dmm_suite): load map(maps/away/skrellscoutship/skre..., 50, 50, null, null, null, 1, null, null, null, null, null, /list (/list))
+Skrellian Scout Ship (/datum/map_template/ruin/away_site/skrellscoutship): load new z(1)
+Antares (/datum/map/torch): build away sites()
+Misc Initialization (Late) (/datum/controller/subsystem/init_misc_late): Initialize(717563)
+Misc Initialization (Late) (/datum/controller/subsystem/init_misc_late): DoInitialize(717563)
+Main (/datum/controller/master): Initialize(10, 0)
+runtime error: Undefined variable /obj/machinery/body_scanconsole/var/display_tags
+
+proc name: load (/dmm_suite/preloader/proc/load)
+  source file: dmm_suite.dm,591
+  usr: null
+  src: /dmm_suite/preloader (/dmm_suite/preloader)
+  call stack:
+/dmm_suite/preloader (/dmm_suite/preloader): load(the body scanner console (/obj/machinery/body_scanconsole))
+/dmm_suite (/dmm_suite): instance atom(/obj/machinery/body_scanconsol... (/obj/machinery/body_scanconsole), /list (/list), the floor (115,84,14) (/turf/simulated/floor/tiled/skrell/white), 1)
+/dmm_suite (/dmm_suite): parse grid("\n/obj/machinery/body_scancons...", "uc", 115, 84, 14, 1, null, /list (/list))
+/dmm_suite (/dmm_suite): load map impl(maps/away/skrellscoutship/skre..., 50, 50, 14, null, null, 1, null, -1.#INF, 1.#INF, -1.#INF, 1.#INF, /list (/list))
+/dmm_suite (/dmm_suite): load map(maps/away/skrellscoutship/skre..., 50, 50, null, null, null, 1, null, null, null, null, null, /list (/list))
+Skrellian Scout Ship (/datum/map_template/ruin/away_site/skrellscoutship): load new z(1)
+Antares (/datum/map/torch): build away sites()
+Misc Initialization (Late) (/datum/controller/subsystem/init_misc_late): Initialize(717563)
+Misc Initialization (Late) (/datum/controller/subsystem/init_misc_late): DoInitialize(717563)
+Main (/datum/controller/master): Initialize(10, 0)
+runtime error: Undefined variable /area/ship/skrellscoutship/crew/medbay/var/display_tags
+
+proc name: load (/dmm_suite/preloader/proc/load)
+  source file: dmm_suite.dm,591
+  usr: null
+  src: /dmm_suite/preloader (/dmm_suite/preloader)
+  call stack:
+/dmm_suite/preloader (/dmm_suite/preloader): load(the Medical Bay (/area/ship/skrellscoutship/crew/medbay))
+/dmm_suite (/dmm_suite): parse grid("\n/obj/machinery/atmospherics/...", "UL", 115, 83, 14, 1, null, /list (/list))
+/dmm_suite (/dmm_suite): load map impl(maps/away/skrellscoutship/skre..., 50, 50, 14, null, null, 1, null, -1.#INF, 1.#INF, -1.#INF, 1.#INF, /list (/list))
+/dmm_suite (/dmm_suite): load map(maps/away/skrellscoutship/skre..., 50, 50, null, null, null, 1, null, null, null, null, null, /list (/list))
+Skrellian Scout Ship (/datum/map_template/ruin/away_site/skrellscoutship): load new z(1)
+Antares (/datum/map/torch): build away sites()
+Misc Initialization (Late) (/datum/controller/subsystem/init_misc_late): Initialize(717563)
+Misc Initialization (Late) (/datum/controller/subsystem/init_misc_late): DoInitialize(717563)
+Main (/datum/controller/master): Initialize(10, 0)
+runtime error: Undefined variable /turf/simulated/floor/tiled/skrell/white/var/display_tags
+
+proc name: load (/dmm_suite/preloader/proc/load)
+  source file: dmm_suite.dm,591
+  usr: null
+  src: /dmm_suite/preloader (/dmm_suite/preloader)
+  call stack:
+/dmm_suite/preloader (/dmm_suite/preloader): load(the floor (115,83,14) (/turf/simulated/floor/tiled/skrell/white))
+/dmm_suite (/dmm_suite): instance atom(/turf/simulated/floor/tiled/sk... (/turf/simulated/floor/tiled/skrell/white), null, the floor (115,83,14) (/turf/simulated/floor/tiled/skrell/white), 1)
+/dmm_suite (/dmm_suite): parse grid("\n/obj/machinery/atmospherics/...", "UL", 115, 83, 14, 1, null, /list (/list))
+/dmm_suite (/dmm_suite): load map impl(maps/away/skrellscoutship/skre..., 50, 50, 14, null, null, 1, null, -1.#INF, 1.#INF, -1.#INF, 1.#INF, /list (/list))
+/dmm_suite (/dmm_suite): load map(maps/away/skrellscoutship/skre..., 50, 50, null, null, null, 1, null, null, null, null, null, /list (/list))
+Skrellian Scout Ship (/datum/map_template/ruin/away_site/skrellscoutship): load new z(1)
+Antares (/datum/map/torch): build away sites()
+Misc Initialization (Late) (/datum/controller/subsystem/init_misc_late): Initialize(717563)
+Misc Initialization (Late) (/datum/controller/subsystem/init_misc_late): DoInitialize(717563)
+Main (/datum/controller/master): Initialize(10, 0)
+## TESTING: Located sector "Empty Sector" at 33,23, containing Z 14
+## TESTING: Starting submap setup - 'Xilvuxix', /decl/submap_archetype/skrellscoutship, 14z.
+## TESTING: Located sector "SSV Vulzxixvuu" at 15,4, containing Z 15 and 16
+Initialized 3892 atoms
+Late initialized 476 atoms
+Initializing atmos machinery
+Initializing pipe networks
+Loaded away site Skrellian Scout Ship!
+## TESTING: Located sector "IPV Lucky Paw, a passenger liner" at 3,32, containing Z 17
+Initialized 5680 atoms
+Late initialized 90 atoms
+Initializing atmos machinery
+Initializing pipe networks
+Loaded away site Casino!
+## TESTING: Located sector "debris field" at 2,32, containing Z 18
+Initialized 10637 atoms
+Late initialized 135 atoms
+Initializing atmos machinery
+Initializing pipe networks
+Loaded away site Derelict Station!
+Failed loading away site Raider Vessel!
+## TESTING: Located sector "Orbital Mining Station" at 31,28, containing Z 19
+Initialized 13292 atoms
+Late initialized 875 atoms
+Initializing atmos machinery
+Initializing pipe networks
+Loaded away site Mining Station!
+## TESTING: Located sector "Neely-Xi, a shrouded planet" at 15,20, containing Z 20
+## WARNING: No ruins available - Not generating ruins in code/modules/maps/ruins.dm at line 24 src:  usr: .
+Ruin loader had no ruins to pick from with 5 left to spend.
+Initialized Misc Initialization (Late) subsystem within 41.5 seconds!
+Initialized Persistence subsystem within 0 seconds!
+Initialized Codex subsystem within 0.5 seconds!
+Initialized Alarm subsystem within 0 seconds!
+Initialized Goals subsystem within 0 seconds!
+Initialized Shuttle subsystem within 0.1 seconds!
+Initialized Lighting subsystem within 13.5 seconds!
+SSzcopy: Found Z-Stack: 1 -> 6 = 6 zl
+SSzcopy: Z-Level maximums: [6,6,6,6,6,6,7,8,9,10,11,12,13,14,16,16,17,18,19,20]
+Initialized Z-Copy subsystem within 0 seconds!
+Stopped server.
+World opened on network port 56962.
+runtime error: list index out of bounds
+proc name: 
+  source file: cable.dm,6
+  usr: null
+  src: 
+  call stack:
+: ()
+Running revision:
+bosfixes
+2022-10-09
+58640e033d79ec2408770ff5f8d90f672314246d
+## ERROR: Hook '/hook/startup/proc/set_visibility' failed or runtimed.
+Your server failed to establish a connection with the feedback database.
+Your server failed to establish a connection with the SQL database.
+## ERROR: Failed to connect to database in load_admins(). Reverting to legacy system.
+## ERROR: Database connection failed. Reverting to the legacy ban system.
+Initializing subsystems...
+Initialized Misc Initialization (Early) subsystem within 0 seconds!
+Unable to locate HTTP POST lib at lib/byhttp.dll, webhooks will not function on this run.
+Initialized Webhooks subsystem within 0 seconds!
+Initialized Chemistry subsystem within 0 seconds!
+Initialized Materials subsystem within 0 seconds!
+Initialized Plants subsystem within 0 seconds!
+Initialized Culture subsystem within 0 seconds!
+Initialized Misc Initialization subsystem within 0 seconds!
+Initialized Robots subsystem within 0 seconds!
+Initialized Space skybox subsystem within 0 seconds!
+One or more map blacklist files are not present in the config directory!
+Initialized Mapping subsystem within 1 second!
+Initialized Jobs subsystem within 0 seconds!
+Initialized Character Setup subsystem within 0 seconds!
+Initialized Circuit subsystem within 0 seconds!
+## TESTING: Building overmap...
+## TESTING: Putting overmap on 11
+## TESTING: Overmap build complete.
+## TESTING: Located sector "LSS Charon" at 31,29, containing Z 10
+## TESTING: Located sector "GUP Santoro" at 13,30, containing Z 12
+## TESTING: Located sector "LAS Aquila" at 10,2, containing Z 13
+Stopped server.
+Sun Oct 09 23:56:21 2022
+World opened on network port 62771.
+runtime error: list index out of bounds
+proc name: 
+  source file: cable.dm,6
+  usr: null
+  src: 
+  call stack:
+: ()
+Running revision:
+bosfixes
+2022-10-09
+58640e033d79ec2408770ff5f8d90f672314246d
+## ERROR: Hook '/hook/startup/proc/set_visibility' failed or runtimed.
+Your server failed to establish a connection with the feedback database.
+Your server failed to establish a connection with the SQL database.
+## ERROR: Failed to connect to database in load_admins(). Reverting to legacy system.
+## ERROR: Database connection failed. Reverting to the legacy ban system.
+Initializing subsystems...
+Initialized Misc Initialization (Early) subsystem within 0 seconds!
+Unable to locate HTTP POST lib at lib/byhttp.dll, webhooks will not function on this run.
+Initialized Webhooks subsystem within 0 seconds!
+Initialized Chemistry subsystem within 0 seconds!
+Initialized Materials subsystem within 0 seconds!
+Initialized Plants subsystem within 0 seconds!
+Initialized Culture subsystem within 0 seconds!
+Initialized Misc Initialization subsystem within 0 seconds!
+Initialized Robots subsystem within 0 seconds!
+Initialized Space skybox subsystem within 0 seconds!
+One or more map blacklist files are not present in the config directory!
+Initialized Mapping subsystem within 0.9 seconds!
+Initialized Jobs subsystem within 0.1 seconds!
+Initialized Character Setup subsystem within 0 seconds!
+Initialized Circuit subsystem within 0 seconds!
+## TESTING: Building overmap...
+## TESTING: Putting overmap on 11
+## TESTING: Overmap build complete.
+## TESTING: Located sector "LSS Charon" at 7,30, containing Z 10
+## TESTING: Located sector "GUP Santoro" at 24,3, containing Z 12
+## TESTING: Located sector "LAS Aquila" at 27,9, containing Z 13
+Stopped server.
+World opened on network port 62836.
+runtime error: list index out of bounds
+proc name: 
+  source file: cable.dm,6
+  usr: null
+  src: 
+  call stack:
+: ()
+Running revision:
+bosfixes
+2022-10-09
+58640e033d79ec2408770ff5f8d90f672314246d
+## ERROR: Hook '/hook/startup/proc/set_visibility' failed or runtimed.
+Your server failed to establish a connection with the feedback database.
+Your server failed to establish a connection with the SQL database.
+## ERROR: Failed to connect to database in load_admins(). Reverting to legacy system.
+## ERROR: Database connection failed. Reverting to the legacy ban system.
+Initializing subsystems...
+Initialized Misc Initialization (Early) subsystem within 0 seconds!
+Unable to locate HTTP POST lib at lib/byhttp.dll, webhooks will not function on this run.
+Initialized Webhooks subsystem within 0 seconds!
+Initialized Chemistry subsystem within 0 seconds!
+Initialized Materials subsystem within 0 seconds!
+Initialized Plants subsystem within 0 seconds!
+Initialized Culture subsystem within 0 seconds!
+Initialized Misc Initialization subsystem within 0 seconds!
+Initialized Robots subsystem within 0 seconds!
+Initialized Space skybox subsystem within 0 seconds!
+One or more map blacklist files are not present in the config directory!
+Initialized Mapping subsystem within 0.9 seconds!
+Initialized Jobs subsystem within 0.1 seconds!
+Initialized Character Setup subsystem within 0 seconds!
+Initialized Circuit subsystem within 0 seconds!
+## TESTING: Building overmap...
+## TESTING: Putting overmap on 11
+## TESTING: Overmap build complete.
+## TESTING: Located sector "LSS Charon" at 2,19, containing Z 10
+## TESTING: Located sector "GUP Santoro" at 21,33, containing Z 12
+## TESTING: Located sector "LAS Aquila" at 13,29, containing Z 13
+## TESTING: Located sector "LRS Antares" at 30,16, containing Z 6, 5, 4, 3, 2, and 1
+Stopped server.
+
+*** End Log: Mon Oct 10 00:36:18 2022 ***
+

@@ -62,7 +62,7 @@
 /obj/item/clothing/under/ascent
 	name = "mantid undersuit"
 	desc = "A ribbed, spongy undersuit of some sort. It has a big sleeve for a tail, so it probably isn't for humans."
-	species_restricted = ALL_ASCENT_SPECIES
+	species_restricted = list(SPECIES_MANTID_ALATE, SPECIES_MANTID_GYNE, SPECIES_NABBER, SPECIES_MONARCH_QUEEN, SPECIES_MONARCH_WORKER)
 	icon_state = "ascent"
 	worn_state = "ascent"
 	color = COLOR_DARK_GUNMETAL
@@ -76,7 +76,7 @@
 /obj/item/clothing/suit/storage/ascent
 	name = "mantid gear harness"
 	desc = "A complex tangle of articulated cables and straps."
-	species_restricted = ALL_ASCENT_SPECIES
+	species_restricted = list(SPECIES_MANTID_ALATE, SPECIES_MANTID_GYNE, SPECIES_NABBER, SPECIES_MONARCH_QUEEN, SPECIES_MONARCH_WORKER)
 	icon_state = "ascent_harness"
 	body_parts_covered = 0
 	slot_flags = SLOT_OCLOTHING | SLOT_BELT

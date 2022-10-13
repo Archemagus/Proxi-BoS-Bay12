@@ -2,8 +2,9 @@ GLOBAL_VAR_INIT(total_runtimes, 0)
 GLOBAL_VAR_INIT(total_runtimes_skipped, 0)
 GLOBAL_VAR_INIT(actual_error_file_line, new/regex("^%% (.*?),(.*?) %% "))
 
-#ifdef DEBUG
+
 /world/Error(exception/E)
+	log_world("[E.name]\n[E.file]\n[E.line]\n[E.desc]")
 	if(!istype(E)) //Something threw an unusual exception
 		log_world("\[[time_stamp()]] Uncaught exception: [E]")
 		return ..()
@@ -105,5 +106,3 @@ GLOBAL_VAR_INIT(actual_error_file_line, new/regex("^%% (.*?),(.*?) %% "))
 	to_world_log("\[[time_stamp()]] Runtime in [erroruid]: [E]")
 	for(var/line in desclines)
 		to_world_log(line)
-
-#endif
